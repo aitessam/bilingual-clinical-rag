@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Neurology
+Sample Name: Diabetic Peripheral Neuropathy
+
+CHIEF COMPLAINT:
+Burning pain and numbness in both feet for eight months.
+
+HISTORY OF PRESENT ILLNESS:
+A 60-year-old female with longstanding type 2 diabetes reports an eight-month history of burning pain and numbness affecting both feet in a stocking distribution, worse at night, mildly limiting sleep. No history of trauma or recent change in footwear.
+
+PAST MEDICAL HISTORY:
+Type 2 diabetes mellitus for fifteen years, suboptimal historical glycaemic control.
+
+MEDICATIONS:
+Metformin 1 g twice daily, gliclazide 80 mg twice daily.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Reduced sensation to light touch and vibration in a stocking distribution to mid-shin bilaterally, absent ankle reflexes bilaterally, normal power throughout. Foot inspection shows intact skin with no ulceration, pulses palpable bilaterally.
+
+ASSESSMENT:
+Painful diabetic peripheral neuropathy, consistent with longstanding diabetes and prior suboptimal glycaemic control.
+
+PLAN:
+Commence amitriptyline 10 mg at night, titrate as tolerated for neuropathic pain. Optimise glycaemic control, arrange HbA1c and review of current diabetes regimen with a view to intensifying therapy. Refer to podiatry for ongoing diabetic foot surveillance. Advise daily foot inspection and appropriate footwear. Review in six weeks to assess pain response and consider alternative agents such as pregabalin if inadequate response.

@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Cardiology
+Sample Name: Hypertension Management
+
+CHIEF COMPLAINT:
+Persistently elevated home blood pressure readings.
+
+HISTORY OF PRESENT ILLNESS:
+A 45-year-old female with a five-year history of hypertension attends with home blood pressure readings consistently above 150/95 mmHg despite adherence to a three-drug regimen. She denies headache, visual disturbance, or chest pain. No symptoms suggestive of secondary causes.
+
+PAST MEDICAL HISTORY:
+Essential hypertension, obesity (BMI 32).
+
+MEDICATIONS:
+Amlodipine 10 mg once daily, losartan 100 mg once daily, indapamide 2.5 mg once daily.
+
+ALLERGIES:
+Sulfa drugs (hives).
+
+PHYSICAL EXAMINATION:
+Blood pressure 156/98 mmHg (repeated, consistent), heart rate 76 bpm. No radiofemoral delay. Heart sounds normal. No abdominal bruits. No peripheral oedema.
+
+ASSESSMENT:
+Resistant hypertension, blood pressure uncontrolled on three antihypertensive agents at adequate doses. Secondary causes to be excluded.
+
+PLAN:
+Add spironolactone 25 mg once daily as fourth-line agent. Arrange investigations for secondary hypertension including renal ultrasound, plasma aldosterone-to-renin ratio, and screening for obstructive sleep apnoea. Reinforce weight loss and dietary sodium restriction. Review blood pressure and renal function in four weeks.

@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Gastroenterology
+Sample Name: Irritable Bowel Syndrome
+
+CHIEF COMPLAINT:
+Recurrent abdominal pain and loose stools for six months.
+
+HISTORY OF PRESENT ILLNESS:
+A 29-year-old female describes six months of intermittent crampy lower abdominal pain associated with loose stools up to four times daily, partially relieved by defecation. Symptoms fluctuate with stress. No rectal bleeding, nocturnal symptoms, or unintentional weight loss.
+
+PAST MEDICAL HISTORY:
+No significant past medical history. Coeliac screening previously negative.
+
+MEDICATIONS:
+None regularly.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Abdomen soft with mild diffuse lower abdominal tenderness, no guarding, no masses. Normal bowel sounds. No perianal abnormality.
+
+ASSESSMENT:
+Irritable bowel syndrome with predominant diarrhoea (IBS-D), Rome IV criteria met, no alarm features identified.
+
+PLAN:
+Advise dietary modification with a trial of a low FODMAP diet under dietitian guidance. Commence loperamide as needed for symptomatic control of diarrhoea. Discuss stress management strategies. Arrange faecal calprotectin and coeliac serology to exclude inflammatory bowel disease if not already repeated recently. Review in eight weeks.

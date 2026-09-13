@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Neurology
+Sample Name: Migraine with Aura
+
+CHIEF COMPLAINT:
+Recurrent severe headaches for one year.
+
+HISTORY OF PRESENT ILLNESS:
+A 31-year-old female reports recurrent unilateral throbbing headaches occurring approximately six times per month, each lasting up to a day, associated with nausea, photophobia, and phonophobia. Approximately half of episodes are preceded by visual aura consisting of shimmering zigzag lines lasting twenty minutes. Headaches significantly limit her ability to work.
+
+PAST MEDICAL HISTORY:
+No significant past medical history. Family history of migraine in her mother.
+
+MEDICATIONS:
+Sumatriptan 50 mg as needed, paracetamol as needed.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Neurological examination normal between episodes, no focal deficits, fundoscopy normal, no papilloedema.
+
+ASSESSMENT:
+Migraine with aura, frequent episodes meeting criteria for consideration of prophylactic therapy given impact on quality of life and function.
+
+PLAN:
+Continue sumatriptan for acute attacks, advise limiting use to avoid medication overuse headache. Commence propranolol 40 mg twice daily as migraine prophylaxis. Advise headache diary to identify triggers and monitor frequency. Review in twelve weeks to assess response to prophylaxis, consider alternative agents such as topiramate if propranolol is not tolerated or ineffective.

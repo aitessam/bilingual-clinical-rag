@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Endocrinology
+Sample Name: Type 2 Diabetes Management
+
+CHIEF COMPLAINT:
+Routine diabetes review, elevated blood glucose readings.
+
+HISTORY OF PRESENT ILLNESS:
+A 52-year-old male with a seven-year history of type 2 diabetes attends for routine review. Home glucose monitoring shows fasting readings consistently between 9 and 11 mmol/L despite dietary measures and current oral therapy. He reports increased thirst and mild fatigue but no visual disturbance or foot symptoms.
+
+PAST MEDICAL HISTORY:
+Type 2 diabetes mellitus, hyperlipidaemia, obesity (BMI 33).
+
+MEDICATIONS:
+Metformin 1 g twice daily, atorvastatin 20 mg once daily.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Weight 98 kg, BMI 33. Blood pressure 132/84 mmHg. Foot examination shows intact sensation and palpable pulses bilaterally. No acanthosis nigricans.
+
+ASSESSMENT:
+Type 2 diabetes mellitus, suboptimally controlled with HbA1c of 78 mmol/mol despite maximal metformin dose, requiring treatment intensification.
+
+PLAN:
+Add a sodium-glucose co-transporter 2 inhibitor, dapagliflozin 10 mg once daily, given additional cardiovascular and renal benefit. Reinforce dietary advice and refer to structured diabetes education programme. Arrange retinal screening and annual foot check if not recently completed. Recheck HbA1c and renal function in three months. Discuss weight management support given ongoing obesity.

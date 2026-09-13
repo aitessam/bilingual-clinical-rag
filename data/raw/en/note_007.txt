@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Orthopedics
+Sample Name: Ankle Fracture Post-operative Follow-up
+
+CHIEF COMPLAINT:
+Routine six-week post-operative review following ankle fracture fixation.
+
+HISTORY OF PRESENT ILLNESS:
+A 27-year-old male sustained a bimalleolar right ankle fracture following an inversion injury while playing football, treated with open reduction and internal fixation. He now returns for six-week follow-up, reporting good progress with reduced pain, currently weight-bearing as tolerated in a walking boot.
+
+PAST MEDICAL HISTORY:
+Previously fit and well, no significant medical history.
+
+MEDICATIONS:
+Paracetamol 500 mg as needed.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Surgical wound well healed, no signs of infection. Mild residual swelling around the ankle. Range of motion improving, dorsiflexion to neutral, plantarflexion to 30 degrees. Neurovascularly intact distally.
+
+ASSESSMENT:
+Bimalleolar ankle fracture, satisfactory radiological and clinical healing at six weeks post-fixation.
+
+PLAN:
+Progress weight-bearing to full as tolerated, wean out of walking boot over the next two weeks. Commence formal physiotherapy for ankle range of motion and strengthening. Repeat weight-bearing radiographs at ten weeks. Advise gradual return to low-impact activity, defer contact sport until at least four months post-surgery.

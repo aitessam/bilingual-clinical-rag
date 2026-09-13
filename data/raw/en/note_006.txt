@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Orthopedics
+Sample Name: Right Knee Osteoarthritis
+
+CHIEF COMPLAINT:
+Chronic right knee pain, worsening over the past year.
+
+HISTORY OF PRESENT ILLNESS:
+A 62-year-old female reports progressive right knee pain over twelve months, worse with stairs and prolonged walking, associated with morning stiffness lasting less than thirty minutes. She has tried paracetamol and topical anti-inflammatories with limited relief.
+
+PAST MEDICAL HISTORY:
+Obesity (BMI 31), hypertension.
+
+MEDICATIONS:
+Paracetamol 1 g four times daily as needed, amlodipine 5 mg once daily.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Right knee with mild effusion, crepitus on movement, reduced range of motion (flexion to 100 degrees), medial joint line tenderness. No instability on varus/valgus stress. Left knee unremarkable.
+
+ASSESSMENT:
+Right knee osteoarthritis, moderate severity, confirmed on weight-bearing radiographs showing medial compartment joint space narrowing and osteophyte formation.
+
+PLAN:
+Refer to physiotherapy for quadriceps strengthening and gait retraining. Consider intra-articular corticosteroid injection for symptomatic relief. Advise weight loss and low-impact exercise. Discuss orthopaedic referral for consideration of total knee replacement if symptoms remain refractory to conservative measures.

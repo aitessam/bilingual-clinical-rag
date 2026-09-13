@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Endocrinology
+Sample Name: Hypothyroidism
+
+CHIEF COMPLAINT:
+Fatigue, weight gain, and cold intolerance for four months.
+
+HISTORY OF PRESENT ILLNESS:
+A 41-year-old female reports a four-month history of progressive fatigue, unintentional weight gain of approximately four kilograms, cold intolerance, and mild constipation. She also notes dry skin and hair thinning. No neck swelling or pain.
+
+PAST MEDICAL HISTORY:
+No significant past medical history. Family history of autoimmune thyroid disease in her sister.
+
+MEDICATIONS:
+None regularly.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Dry skin, mild non-tender diffuse thyroid enlargement, delayed relaxation phase of ankle reflexes. Heart rate 58 bpm regular, blood pressure 118/76 mmHg. No proximal muscle weakness.
+
+ASSESSMENT:
+Primary hypothyroidism, likely autoimmune (Hashimoto's thyroiditis) in origin, confirmed biochemically with elevated thyroid-stimulating hormone and low free thyroxine, positive thyroid peroxidase antibodies.
+
+PLAN:
+Commence levothyroxine 50 micrograms once daily, taken on an empty stomach. Recheck thyroid function tests in six to eight weeks to guide dose titration. Advise on symptoms of over- and under-replacement to report. Arrange lipid profile given association between hypothyroidism and dyslipidaemia. Continue annual thyroid function monitoring once stable.

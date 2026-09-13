@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Neurology
+Sample Name: New Onset Seizure
+
+CHIEF COMPLAINT:
+Witnessed convulsive episode, brought in by ambulance.
+
+HISTORY OF PRESENT ILLNESS:
+A 22-year-old male was brought to the emergency department after a witnessed generalised tonic-clonic seizure lasting approximately two minutes, with a subsequent period of confusion lasting twenty minutes. He has no recollection of the event. A friend reported no preceding illness, alcohol intoxication, or head injury. This is his first such episode.
+
+PAST MEDICAL HISTORY:
+No significant past medical history, no known epilepsy or head injury.
+
+MEDICATIONS:
+None regularly.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Fully alert and oriented at review, mild tongue bite noted on the left lateral border. Neurological examination otherwise normal, no focal deficit. No signs of meningism.
+
+ASSESSMENT:
+First unprovoked generalised tonic-clonic seizure, aetiology to be determined.
+
+PLAN:
+Arrange urgent blood tests including glucose, electrolytes, and calcium, all within normal limits. Arrange outpatient electroencephalogram and MRI brain to assess for underlying structural or electrical abnormality. Advise on seizure safety precautions, driving restrictions in line with national licensing guidance, and avoidance of swimming or bathing alone. Refer to first-seizure neurology clinic for further assessment prior to considering antiepileptic therapy.

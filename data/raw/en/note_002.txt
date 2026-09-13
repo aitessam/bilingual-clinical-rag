@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Cardiology
+Sample Name: New Onset Atrial Fibrillation
+
+CHIEF COMPLAINT:
+Palpitations and mild breathlessness for two days.
+
+HISTORY OF PRESENT ILLNESS:
+A 71-year-old female presented with a two-day history of irregular palpitations and mild exertional breathlessness. No chest pain or syncope. She reports similar but milder episodes over the past month that resolved spontaneously.
+
+PAST MEDICAL HISTORY:
+Type 2 diabetes mellitus, hypertension. No prior history of arrhythmia.
+
+MEDICATIONS:
+Metformin 1 g twice daily, ramipril 5 mg once daily.
+
+ALLERGIES:
+Penicillin (rash).
+
+PHYSICAL EXAMINATION:
+Irregularly irregular pulse at 110 bpm, blood pressure 138/84 mmHg. Mild bibasal crackles on auscultation. No peripheral oedema. Twelve-lead ECG confirmed atrial fibrillation with no acute ischaemic changes.
+
+ASSESSMENT:
+New onset atrial fibrillation with rapid ventricular response, CHA2DS2-VASc score of 4, indicating high thromboembolic risk.
+
+PLAN:
+Commence bisoprolol 2.5 mg once daily for rate control, titrate as tolerated. Start apixaban 5 mg twice daily for stroke prevention after renal function review. Arrange echocardiogram and thyroid function tests to exclude reversible causes. Refer to cardiology clinic for consideration of rhythm control strategy. Advise on reducing caffeine intake and monitoring pulse at home.

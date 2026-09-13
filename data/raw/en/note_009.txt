@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Gastroenterology
+Sample Name: Gastro-oesophageal Reflux Disease Evaluation
+
+CHIEF COMPLAINT:
+Heartburn and regurgitation for four months.
+
+HISTORY OF PRESENT ILLNESS:
+A 34-year-old male reports a four-month history of burning retrosternal discomfort after meals and occasional regurgitation of sour-tasting fluid, worse when lying flat at night. Symptoms partially relieved by over-the-counter antacids. No dysphagia, weight loss, or haematemesis.
+
+PAST MEDICAL HISTORY:
+Obesity (BMI 29), no prior gastrointestinal investigations.
+
+MEDICATIONS:
+Over-the-counter calcium carbonate antacid as needed.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Abdomen soft, non-tender, no masses or organomegaly. No signs of anaemia. Weight stable.
+
+ASSESSMENT:
+Clinical features consistent with gastro-oesophageal reflux disease, no alarm features warranting urgent endoscopy at present.
+
+PLAN:
+Commence omeprazole 20 mg once daily for eight weeks. Advise on weight loss, avoiding late meals, elevating the head of the bed, and reducing caffeine and alcohol intake. Review after eight weeks; arrange upper gastrointestinal endoscopy if symptoms persist despite therapy or if alarm features develop.

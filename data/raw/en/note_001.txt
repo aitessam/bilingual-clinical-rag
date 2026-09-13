@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Cardiology
+Sample Name: Acute Chest Pain Evaluation
+
+CHIEF COMPLAINT:
+Central chest pain for six hours.
+
+HISTORY OF PRESENT ILLNESS:
+A 58-year-old male presented to the emergency department with a six-hour history of central, dull chest pain radiating to the left arm, associated with mild diaphoresis. He denied dyspnoea, palpitations, or syncope. Pain was not clearly exertional and settled partially with rest. No prior similar episodes.
+
+PAST MEDICAL HISTORY:
+Hypertension, hyperlipidaemia, and a 20 pack-year smoking history (quit two years ago).
+
+MEDICATIONS:
+Amlodipine 5 mg once daily, atorvastatin 20 mg once daily, aspirin 75 mg once daily.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Blood pressure 148/92 mmHg, heart rate 78 bpm regular, oxygen saturation 98% on air. Heart sounds normal, no murmurs. Chest clear. No peripheral oedema. Peripheral pulses intact bilaterally.
+
+ASSESSMENT:
+Atypical chest pain, low to intermediate risk for acute coronary syndrome. Serial troponins negative at presentation and six hours. Resting ECG showed normal sinus rhythm with no ischaemic changes.
+
+PLAN:
+Admit for observation, repeat troponin at twelve hours, arrange outpatient exercise stress echocardiography. Continue current antihypertensive and lipid-lowering therapy. Advised on smoking cessation support and lifestyle modification. Discharge with cardiology outpatient follow-up if investigations remain reassuring.

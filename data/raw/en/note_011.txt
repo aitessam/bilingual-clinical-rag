@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Gastroenterology
+Sample Name: Upper Gastrointestinal Bleed
+
+CHIEF COMPLAINT:
+Black tarry stools and dizziness for two days.
+
+HISTORY OF PRESENT ILLNESS:
+A 67-year-old male presented with a two-day history of black, tarry, offensive-smelling stools and lightheadedness on standing. He reports regular use of ibuprofen for chronic knee pain over the preceding month. No haematemesis or abdominal pain.
+
+PAST MEDICAL HISTORY:
+Osteoarthritis, hypertension.
+
+MEDICATIONS:
+Ibuprofen 400 mg three times daily (self-directed), amlodipine 5 mg once daily.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Pale conjunctivae, blood pressure 102/64 mmHg supine, heart rate 96 bpm, mild postural drop on standing. Abdomen soft, mildly tender in the epigastrium, no peritonism. Digital rectal examination confirmed melena.
+
+ASSESSMENT:
+Acute upper gastrointestinal bleed, likely secondary to NSAID-induced peptic ulcer disease, haemodynamically stable but with evidence of significant blood loss.
+
+PLAN:
+Admit for resuscitation with intravenous fluids, cross-match blood, commence intravenous proton pump inhibitor infusion. Stop ibuprofen immediately. Arrange urgent upper gastrointestinal endoscopy, which identified a clean-based duodenal ulcer with no active bleeding requiring intervention. Test for Helicobacter pylori and treat if positive. Continue oral proton pump inhibitor for eight weeks with outpatient follow-up.

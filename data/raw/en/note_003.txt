@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Cardiology
+Sample Name: Heart Failure Follow-up
+
+CHIEF COMPLAINT:
+Routine follow-up for chronic heart failure, mild ankle swelling.
+
+HISTORY OF PRESENT ILLNESS:
+A 66-year-old male with known heart failure with reduced ejection fraction attends for routine review. He reports stable exercise tolerance, able to walk approximately 400 metres before breathlessness, consistent with NYHA class II. He notes mild ankle swelling by the end of the day but no orthopnoea or paroxysmal nocturnal dyspnoea.
+
+PAST MEDICAL HISTORY:
+Ischaemic cardiomyopathy following anterior myocardial infarction three years ago, ejection fraction 35% on most recent echocardiogram.
+
+MEDICATIONS:
+Bisoprolol 7.5 mg once daily, ramipril 10 mg once daily, spironolactone 25 mg once daily, furosemide 20 mg once daily.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Blood pressure 112/70 mmHg, heart rate 64 bpm regular. Jugular venous pressure not elevated. Mild bilateral ankle oedema. Chest clear to auscultation. Heart sounds normal with no added sounds.
+
+ASSESSMENT:
+Chronic heart failure with reduced ejection fraction, clinically stable, on near-target guideline-directed medical therapy.
+
+PLAN:
+Increase ramipril to 12.5 mg once daily as blood pressure allows, recheck renal function and potassium in two weeks. Continue current furosemide dose. Reinforce fluid and salt restriction advice, daily weight monitoring. Arrange repeat echocardiogram in six months and continue annual cardiology review.

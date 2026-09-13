@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Orthopedics
+Sample Name: Lumbar Disc Herniation with Sciatica
+
+CHIEF COMPLAINT:
+Lower back pain radiating down the left leg for three weeks.
+
+HISTORY OF PRESENT ILLNESS:
+A 39-year-old male presents with a three-week history of lower back pain radiating down the posterior left thigh and calf to the foot, worse with sitting and bending forward. He reports associated tingling in the left lateral foot. No bladder or bowel disturbance, no saddle anaesthesia.
+
+PAST MEDICAL HISTORY:
+No significant past medical history. Works as a delivery driver.
+
+MEDICATIONS:
+Ibuprofen 400 mg as needed.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Positive straight leg raise on the left at 40 degrees, reduced sensation over the left lateral foot, reduced power in left ankle plantar flexion (4/5). Reflexes symmetrical. No lower limb oedema.
+
+ASSESSMENT:
+Left L5-S1 radiculopathy, clinical findings consistent with lumbar disc herniation, likely L4-L5 or L5-S1 level.
+
+PLAN:
+Arrange MRI lumbar spine to confirm level and severity. Commence a short course of oral corticosteroids and refer to physiotherapy for core stabilisation exercises. Advise on activity modification, avoiding prolonged sitting. Refer to spinal surgery clinic if no improvement after six weeks of conservative management or if neurological deficit progresses.

@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Neurology
+Sample Name: Ischaemic Stroke Follow-up
+
+CHIEF COMPLAINT:
+Routine follow-up three months after ischaemic stroke.
+
+HISTORY OF PRESENT ILLNESS:
+A 70-year-old male presents for review three months after an ischaemic stroke affecting the right middle cerebral artery territory, which caused transient left-sided weakness with good recovery. He reports residual mild left hand clumsiness but has returned to most daily activities independently.
+
+PAST MEDICAL HISTORY:
+Hypertension, type 2 diabetes mellitus, ischaemic stroke three months ago.
+
+MEDICATIONS:
+Clopidogrel 75 mg once daily, atorvastatin 80 mg once daily, ramipril 10 mg once daily, metformin 1 g twice daily.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Blood pressure 134/82 mmHg. Mild residual weakness of left hand grip (4/5), otherwise full power throughout. Gait steady without aid. No visual field deficit.
+
+ASSESSMENT:
+Ischaemic stroke, stable with mild residual left-sided weakness, currently on appropriate secondary prevention therapy.
+
+PLAN:
+Continue current antiplatelet, statin, and antihypertensive therapy. Confirm carotid Doppler and echocardiogram results were unremarkable at initial admission. Continue outpatient physiotherapy and occupational therapy for residual hand weakness. Reinforce diabetes and blood pressure control, target HbA1c and blood pressure reviewed at this visit and found satisfactory. Arrange further neurology review in six months.

@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Endocrinology
+Sample Name: Adrenal Insufficiency Follow-up
+
+CHIEF COMPLAINT:
+Routine follow-up for known adrenal insufficiency.
+
+HISTORY OF PRESENT ILLNESS:
+A 48-year-old male with a two-year history of primary adrenal insufficiency attends for routine review. He reports generally stable energy levels on current replacement therapy, though describes increased fatigue during a recent minor respiratory illness, which resolved after temporarily increasing his steroid dose as previously advised. No episodes suggestive of adrenal crisis.
+
+PAST MEDICAL HISTORY:
+Primary adrenal insufficiency (Addison's disease), diagnosed two years ago following presentation with fatigue and hyperpigmentation.
+
+MEDICATIONS:
+Hydrocortisone 10 mg on waking, 5 mg at midday, 5 mg in the late afternoon, fludrocortisone 100 micrograms once daily.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Blood pressure 118/74 mmHg lying, 110/68 mmHg standing, mild postural drop without symptoms. Hyperpigmentation noted over palmar creases and buccal mucosa, stable compared to prior review. No signs of Cushingoid features to suggest over-replacement.
+
+ASSESSMENT:
+Primary adrenal insufficiency, clinically stable on current glucocorticoid and mineralocorticoid replacement, appropriate sick-day dose adjustment demonstrated during recent illness.
+
+PLAN:
+Continue current hydrocortisone and fludrocortisone regimen. Reinforce sick-day rules for steroid dose adjustment and the importance of the emergency hydrocortisone injection kit, confirm it remains in date. Check electrolytes and renin to guide fludrocortisone dosing. Provide steroid alert card and medical alert bracelet if not already carried. Arrange annual endocrinology review and reinforce need to wear medical identification at all times.

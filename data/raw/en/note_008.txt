@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Orthopedics
+Sample Name: Rotator Cuff Injury
+
+CHIEF COMPLAINT:
+Right shoulder pain and weakness for two months.
+
+HISTORY OF PRESENT ILLNESS:
+A 54-year-old female reports two months of right shoulder pain, worse with overhead activity and at night, associated with a sense of weakness when lifting objects above shoulder height. No history of acute trauma, symptoms developed gradually.
+
+PAST MEDICAL HISTORY:
+No significant past medical history.
+
+MEDICATIONS:
+Naproxen 250 mg twice daily as needed.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Painful arc of abduction between 60 and 120 degrees, positive Hawkins-Kennedy and Neer impingement tests, mild weakness on resisted external rotation. No gross deformity, full passive range of motion preserved.
+
+ASSESSMENT:
+Right rotator cuff tendinopathy with probable partial-thickness supraspinatus tear, subacromial impingement.
+
+PLAN:
+Arrange MRI of the right shoulder to confirm extent of rotator cuff pathology. Refer to physiotherapy for rotator cuff strengthening and scapular stabilisation exercises. Consider subacromial corticosteroid injection if pain limits rehabilitation. Refer to orthopaedic shoulder clinic if conservative management fails after eight to twelve weeks or if tear is confirmed as full-thickness.

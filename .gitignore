@@ -1,0 +1,32 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Packaging
+*.egg-info/
+dist/
+build/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Data artefacts: track the synthetic demo dataset, ignore anything else dropped in data/raw
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/en/
+!data/raw/ar/
+data/processed/*
+!data/processed/.gitkeep
+
+# IDE
+.vscode/
+.idea/

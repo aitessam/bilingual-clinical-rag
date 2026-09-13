@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Gastroenterology
+Sample Name: Colonoscopy Follow-up
+
+CHIEF COMPLAINT:
+Follow-up appointment to discuss recent colonoscopy findings.
+
+HISTORY OF PRESENT ILLNESS:
+A 55-year-old female underwent a screening colonoscopy following a positive faecal immunochemical test as part of the national bowel screening programme. She was asymptomatic prior to the procedure. A single 12 mm tubular adenoma was identified in the sigmoid colon and removed by snare polypectomy, with histology confirming low-grade dysplasia and complete excision.
+
+PAST MEDICAL HISTORY:
+No significant past medical history, no family history of colorectal cancer.
+
+MEDICATIONS:
+None regularly.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Abdomen soft and non-tender. No masses palpable. General examination unremarkable.
+
+ASSESSMENT:
+Single low-risk tubular adenoma with low-grade dysplasia, completely resected, no synchronous lesions identified.
+
+PLAN:
+Reassure patient regarding benign nature of the finding. Advise surveillance colonoscopy in five years in line with post-polypectomy surveillance guidance. Discuss lifestyle measures to reduce colorectal cancer risk, including increased dietary fibre, reduced red and processed meat intake, and regular physical activity. Return to routine screening programme if surveillance colonoscopy is unremarkable.

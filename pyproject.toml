@@ -1,0 +1,38 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "clinical-rag-bilingual"
+version = "0.1.0"
+description = "Bilingual (English/Arabic) agentic RAG assistant over clinical documents."
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+    { name = "Muhammad Aitessam", email = "muhammad.aitessam@blockmedpro.com" },
+]
+dependencies = [
+    "langchain",
+    "langgraph",
+    "faiss-cpu",
+    "rank-bm25",
+    "sentence-transformers",
+    "ragas",
+    "streamlit",
+    "python-dotenv",
+    "langchain-groq",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "pytest-cov",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = [
+    "src/ingestion",
+    "src/retrieval",
+    "src/agent",
+    "src/eval",
+]

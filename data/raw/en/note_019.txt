@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Endocrinology
+Sample Name: Graves' Disease
+
+CHIEF COMPLAINT:
+Weight loss, palpitations, and heat intolerance for three months.
+
+HISTORY OF PRESENT ILLNESS:
+A 35-year-old female reports three months of unintentional weight loss of approximately six kilograms despite an increased appetite, associated with palpitations, heat intolerance, tremor, and increased frequency of bowel movements. She also describes irritability and difficulty sleeping. No visual disturbance or eye discomfort reported.
+
+PAST MEDICAL HISTORY:
+No significant past medical history. No prior thyroid disease.
+
+MEDICATIONS:
+None regularly.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Fine resting tremor of outstretched hands, warm moist skin, heart rate 112 bpm regular, blood pressure 138/70 mmHg. Diffusely enlarged, non-tender thyroid gland with an audible bruit. Mild bilateral lid retraction, no significant proptosis or ophthalmoplegia.
+
+ASSESSMENT:
+Graves' disease, confirmed biochemically with suppressed thyroid-stimulating hormone, elevated free thyroxine and free triiodothyronine, and positive TSH receptor antibodies, with associated mild thyroid eye signs.
+
+PLAN:
+Commence carbimazole 20 mg once daily with a beta-blocker, propranolol 40 mg three times daily, for symptomatic control of adrenergic symptoms. Arrange baseline full blood count prior to starting carbimazole and counsel on symptoms of agranulocytosis to report urgently. Refer to endocrinology clinic for ongoing management and discussion of long-term treatment options including radioiodine or surgery. Refer to ophthalmology given eye signs for baseline assessment.
