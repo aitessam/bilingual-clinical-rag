@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Dermatology
+Sample Name: Suspicious Pigmented Lesion
+
+CHIEF COMPLAINT:
+Changing mole on the back for two months.
+
+HISTORY OF PRESENT ILLNESS:
+A 52-year-old male presents with a two-month history of a mole on his upper back that has increased in size and become darker, according to his partner. He reports occasional itching but no bleeding. No personal history of skin cancer, significant history of sunburns as a child.
+
+PAST MEDICAL HISTORY:
+No significant past medical history.
+
+MEDICATIONS:
+None.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Irregularly shaped pigmented lesion on the upper back, 9 mm in diameter, with asymmetry, irregular border, colour variation from brown to black, and evolving size on dermoscopy. No palpable regional lymphadenopathy.
+
+ASSESSMENT:
+Suspicious pigmented lesion with features concerning for melanoma, meeting several ABCDE criteria.
+
+PLAN:
+Arrange urgent excision biopsy with 2 mm margins for histopathological assessment under the two-week-wait skin cancer pathway. Advise sun protection measures and avoidance of further sun exposure. Discuss the biopsy result and staging plan, including possible wider excision and sentinel lymph node biopsy, once histology is available.

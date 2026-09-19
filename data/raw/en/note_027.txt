@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Nephrology
+Sample Name: Nephrolithiasis with Renal Colic
+
+CHIEF COMPLAINT:
+Sudden severe left flank pain radiating to the groin for six hours.
+
+HISTORY OF PRESENT ILLNESS:
+A 38-year-old male presents with sudden-onset severe left flank pain radiating to the groin, colicky in nature, associated with nausea and one episode of vomiting. He reports visible blood in his urine. No fever, no dysuria.
+
+PAST MEDICAL HISTORY:
+Previous kidney stone five years ago, passed spontaneously.
+
+MEDICATIONS:
+None regularly.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Temperature 37.1°C, heart rate 96 bpm, blood pressure 142/88 mmHg, patient visibly uncomfortable and unable to find a comfortable position. Left renal angle tenderness. Abdomen soft, no peritonism.
+
+ASSESSMENT:
+Acute renal colic, likely due to left ureteric calculus, with visible haematuria consistent with stone passage.
+
+PLAN:
+Administer intravenous analgesia and antiemetic. Arrange non-contrast CT kidneys, ureters, and bladder to confirm stone size and location. Encourage oral fluid intake and provide an alpha-blocker to aid stone passage if size is favourable. Sieve urine to catch passed stone for analysis. Advise urgent return if fever develops, suggesting infected obstructed system requiring emergency intervention.

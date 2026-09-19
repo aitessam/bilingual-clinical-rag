@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Pulmonology
+Sample Name: Community-Acquired Pneumonia
+
+CHIEF COMPLAINT:
+Fever, cough, and right-sided chest pain for two days.
+
+HISTORY OF PRESENT ILLNESS:
+A 54-year-old female presents with a two-day history of fever up to 38.9°C, productive cough with rust-coloured sputum, and right-sided pleuritic chest pain worse on deep inspiration. She reports rigors and general malaise. No recent travel, no sick contacts.
+
+PAST MEDICAL HISTORY:
+Type 2 diabetes mellitus, otherwise well.
+
+MEDICATIONS:
+Metformin 1000 mg twice daily.
+
+ALLERGIES:
+Penicillin (rash).
+
+PHYSICAL EXAMINATION:
+Temperature 38.7°C, respiratory rate 22/min, oxygen saturation 94% on air, heart rate 102 bpm. Reduced air entry and coarse crackles at the right lower zone with dullness to percussion. Heart sounds normal.
+
+ASSESSMENT:
+Community-acquired pneumonia, right lower lobe, CURB-65 score of 1, suitable for outpatient management with close follow-up given diabetes.
+
+PLAN:
+Commence doxycycline given penicillin allergy, for seven days. Arrange chest X-ray and routine bloods including CRP. Advise adequate hydration, monitor blood glucose closely during acute illness, and safety-net regarding worsening breathlessness or persistent fever. Review in 48 hours or sooner if deteriorating.

@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Nephrology
+Sample Name: Nephrotic Syndrome Work-Up
+
+CHIEF COMPLAINT:
+Leg and facial swelling for two weeks.
+
+HISTORY OF PRESENT ILLNESS:
+A 29-year-old female presents with a two-week history of progressive bilateral leg swelling and periorbital puffiness, worse in the mornings. She has also noticed frothy urine. No haematuria, no rash, no recent infection.
+
+PAST MEDICAL HISTORY:
+No significant past medical history.
+
+MEDICATIONS:
+None.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Blood pressure 128/80 mmHg, periorbital oedema present, bilateral pitting oedema to the mid-shin. Chest clear, no ascites detected on examination.
+
+ASSESSMENT:
+Nephrotic syndrome, likely minimal change disease given age and presentation, pending renal biopsy confirmation and exclusion of secondary causes.
+
+PLAN:
+Send urine protein-creatinine ratio, serum albumin, lipid profile, and screen for secondary causes including autoimmune and infective serology. Arrange renal biopsy. Commence loop diuretic for symptomatic oedema and consider prophylactic anticoagulation given thrombotic risk. Start empirical high-dose corticosteroids after specialist discussion pending biopsy result. Advise low-salt diet and fluid balance monitoring.

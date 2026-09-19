@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Dermatology
+Sample Name: Cellulitis of the Lower Leg
+
+CHIEF COMPLAINT:
+Red, swollen, painful right lower leg for two days.
+
+HISTORY OF PRESENT ILLNESS:
+A 61-year-old male presents with a two-day history of redness, swelling, and pain in the right lower leg, following a minor scratch while gardening. He reports feeling feverish and generally unwell. No history of trauma beyond the scratch, no recent travel.
+
+PAST MEDICAL HISTORY:
+Type 2 diabetes mellitus, venous insufficiency.
+
+MEDICATIONS:
+Metformin 500 mg twice daily.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Temperature 38.2°C, heart rate 98 bpm. Right lower leg erythematous, warm, and tender from the ankle to mid-shin, with poorly defined margins and mild oedema. No fluctuance or crepitus. Small healing scratch noted on the shin.
+
+ASSESSMENT:
+Cellulitis of the right lower leg, likely bacterial entry through the minor skin breach, with systemic features suggesting moderate severity in the context of diabetes.
+
+PLAN:
+Commence oral flucloxacillin, with clear instructions to seek urgent review if symptoms worsen or systemic features progress. Mark the margins of erythema to monitor progression. Advise leg elevation and adequate hydration. Optimise diabetic control during acute illness and arrange follow-up in 48 hours to assess response to antibiotics.

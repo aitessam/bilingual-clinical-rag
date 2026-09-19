@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Pulmonology
+Sample Name: Newly Diagnosed Asthma
+
+CHIEF COMPLAINT:
+Episodic wheeze and breathlessness for three months.
+
+HISTORY OF PRESENT ILLNESS:
+A 24-year-old female presents with a three-month history of episodic wheeze, chest tightness, and breathlessness, particularly at night and with exercise. Symptoms are worse in cold weather and around pets. No fever, no weight loss. Family history of atopy.
+
+PAST MEDICAL HISTORY:
+Childhood eczema, seasonal allergic rhinitis.
+
+MEDICATIONS:
+Cetirizine as needed.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Respiratory rate 16/min, oxygen saturation 98% on air. Mild expiratory wheeze on forced expiration, otherwise normal chest examination between episodes. Peak expiratory flow 75% of predicted with 18% improvement post-bronchodilator.
+
+ASSESSMENT:
+Newly diagnosed asthma, mild persistent, supported by variable peak flow and bronchodilator reversibility.
+
+PLAN:
+Commence low-dose inhaled corticosteroid with salbutamol as reliever. Provide inhaler technique education and a written asthma action plan. Advise on trigger avoidance including pet dander. Arrange spirometry with reversibility testing and review in six weeks to assess control.

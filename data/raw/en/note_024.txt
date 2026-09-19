@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Pulmonology
+Sample Name: Suspected Pulmonary Embolism
+
+CHIEF COMPLAINT:
+Sudden-onset breathlessness and right calf swelling for one day.
+
+HISTORY OF PRESENT ILLNESS:
+A 45-year-old female presents with sudden-onset breathlessness at rest and pleuritic left-sided chest pain starting yesterday, associated with right calf swelling and tenderness for three days. She returned from a long-haul flight one week ago. No haemoptysis, no syncope.
+
+PAST MEDICAL HISTORY:
+Combined oral contraceptive pill use, otherwise well.
+
+MEDICATIONS:
+Combined oral contraceptive pill.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Respiratory rate 26/min, oxygen saturation 93% on air, heart rate 110 bpm. Right calf circumference 3 cm greater than left with mild tenderness. Chest examination unremarkable. Wells score suggests high probability of pulmonary embolism.
+
+ASSESSMENT:
+Suspected pulmonary embolism with concurrent right leg deep vein thrombosis, high clinical probability, provoked by recent travel and oestrogen-containing contraception.
+
+PLAN:
+Arrange urgent CT pulmonary angiogram and commence treatment-dose low molecular weight heparin while awaiting imaging. Discontinue combined oral contraceptive pill. Arrange venous Doppler ultrasound of the right leg. Admit for monitoring and initiate anticoagulation counselling, with planned transition to a direct oral anticoagulant once confirmed.

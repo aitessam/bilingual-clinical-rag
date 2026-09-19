@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Nephrology
+Sample Name: Acute Kidney Injury Secondary to Dehydration
+
+CHIEF COMPLAINT:
+Reduced urine output and vomiting for two days.
+
+HISTORY OF PRESENT ILLNESS:
+A 72-year-old male presents with two days of vomiting and diarrhoea, poor oral intake, and reduced urine output. He reports dizziness on standing. No dysuria, no loin pain, no known nephrotoxin exposure other than his regular medications.
+
+PAST MEDICAL HISTORY:
+Hypertension, benign prostatic hyperplasia.
+
+MEDICATIONS:
+Ramipril 5 mg once daily, tamsulosin 400 micrograms once daily.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Blood pressure 98/62 mmHg (lying), dropping to 82/54 mmHg (standing), heart rate 104 bpm, dry mucous membranes, reduced skin turgor. Chest clear. No peripheral oedema.
+
+ASSESSMENT:
+Stage 2 acute kidney injury (creatinine risen from baseline 90 to 210 micromol/L), pre-renal in aetiology secondary to volume depletion from gastroenteritis, likely compounded by ACE inhibitor use.
+
+PLAN:
+Hold ramipril temporarily and commence intravenous fluid resuscitation with careful monitoring of fluid balance. Repeat renal function in 24-48 hours. Send urinalysis and urine sodium to support pre-renal diagnosis. Monitor for signs of fluid overload during rehydration. Restart ramipril once renal function has recovered towards baseline.

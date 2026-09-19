@@ -10,8 +10,8 @@ The notes are styled after the format of the public MTSamples medical transcript
 
 ```
 raw/
-  en/   English notes, note_001.txt to note_020.txt
-  ar/   Arabic notes, note_001.txt to note_020.txt
+  en/   English notes, note_001.txt to note_032.txt
+  ar/   Arabic notes, note_001.txt to note_032.txt
 processed/  Reserved for chunked/indexed output from the ingestion pipeline (currently empty)
 ```
 
@@ -19,7 +19,7 @@ Files are paired by name: `en/note_NNN.txt` and `ar/note_NNN.txt` describe the s
 
 The Arabic versions are professional-register adaptations, not literal word-for-word translations, but they preserve the same clinical facts (age, sex, vital signs, medications, diagnosis, plan) as their English counterpart.
 
-## Specialty breakdown (20 notes total, 4 per specialty)
+## Specialty breakdown (32 notes total, 4 per specialty)
 
 | Notes | Specialty |
 |---|---|
@@ -28,3 +28,6 @@ The Arabic versions are professional-register adaptations, not literal word-for-
 | note_009 to note_012 | Gastroenterology |
 | note_013 to note_016 | Neurology |
 | note_017 to note_020 | Endocrinology |
+| note_021 to note_024 | Pulmonology |
+| note_025 to note_028 | Nephrology |
+| note_029 to note_032 | Dermatology |

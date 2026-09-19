@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Pulmonology
+Sample Name: Acute Exacerbation of COPD
+
+CHIEF COMPLAINT:
+Increasing breathlessness and cough with green sputum for four days.
+
+HISTORY OF PRESENT ILLNESS:
+A 67-year-old male with known chronic obstructive pulmonary disease presents with four days of worsening breathlessness, increased cough, and a change in sputum colour from white to green. He reports using his salbutamol inhaler more frequently with limited relief. No fever, no chest pain, no haemoptysis.
+
+PAST MEDICAL HISTORY:
+COPD diagnosed eight years ago (FEV1 55% predicted), hypertension, 40 pack-year smoking history (current smoker).
+
+MEDICATIONS:
+Tiotropium once daily, salbutamol inhaler as needed, amlodipine 5 mg once daily.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Respiratory rate 24/min, oxygen saturation 91% on air, widespread expiratory wheeze, prolonged expiratory phase, using accessory muscles mildly. Heart sounds normal. No peripheral oedema.
+
+ASSESSMENT:
+Acute exacerbation of COPD, likely infective, moderate severity.
+
+PLAN:
+Commence nebulised salbutamol and ipratropium, oral prednisolone 30 mg for five days, and a seven-day course of amoxicillin. Arrange chest X-ray to exclude consolidation. Provide supplemental oxygen titrated to target saturation 88-92%. Advise smoking cessation support and arrange pulmonary rehabilitation referral. Follow up in one week or sooner if worsening.

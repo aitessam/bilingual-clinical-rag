@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Dermatology
+Sample Name: Atopic Dermatitis Flare
+
+CHIEF COMPLAINT:
+Itchy, dry skin flare affecting the arms and neck for one week.
+
+HISTORY OF PRESENT ILLNESS:
+A 19-year-old female with a longstanding history of atopic dermatitis presents with a one-week flare affecting the flexor surfaces of both arms and the neck, with intense itching disturbing her sleep. She reports recent exam stress and a change in laundry detergent. No signs of secondary infection reported.
+
+PAST MEDICAL HISTORY:
+Atopic dermatitis since childhood, asthma, allergic rhinitis.
+
+MEDICATIONS:
+Emollient cream, occasional antihistamine.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Erythematous, excoriated, lichenified patches over the antecubital fossae and neck, with dry surrounding skin. No weeping, crusting, or signs of secondary bacterial infection. No lymphadenopathy.
+
+ASSESSMENT:
+Acute flare of atopic dermatitis, likely triggered by stress and a new irritant exposure, without evidence of secondary infection.
+
+PLAN:
+Step up to a moderate-potency topical corticosteroid for the flare, alongside frequent liberal emollient use. Advise reverting to the previous laundry detergent and avoiding known irritants. Provide a non-sedating antihistamine for symptomatic itch relief and sleep disturbance. Arrange follow-up in two to three weeks, with advice to return sooner if signs of secondary infection develop.

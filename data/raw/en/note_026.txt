@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Nephrology
+Sample Name: Chronic Kidney Disease Stage 3b Review
+
+CHIEF COMPLAINT:
+Routine follow-up for chronic kidney disease.
+
+HISTORY OF PRESENT ILLNESS:
+A 66-year-old male with known chronic kidney disease attends for routine review. He reports feeling generally well, no swelling, no breathlessness, no reduction in urine output. He denies haematuria or foamy urine.
+
+PAST MEDICAL HISTORY:
+Type 2 diabetes mellitus, hypertension, chronic kidney disease stage 3b diagnosed two years ago.
+
+MEDICATIONS:
+Metformin 500 mg twice daily, losartan 50 mg once daily, atorvastatin 20 mg once daily.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Blood pressure 138/84 mmHg, no peripheral oedema, chest clear, no signs of fluid overload. Weight stable compared to previous visit.
+
+ASSESSMENT:
+Chronic kidney disease stage 3b, stable, with well-controlled blood pressure and glycaemic control. Urine albumin-creatinine ratio mildly elevated, consistent with early diabetic nephropathy.
+
+PLAN:
+Continue current losartan for renin-angiotensin system blockade and renal protection. Recheck estimated glomerular filtration rate, urine albumin-creatinine ratio, and HbA1c in six months. Reinforce dietary sodium restriction and avoid nephrotoxic medications including NSAIDs. Discuss vaccination status and refer to dietitian for renal-appropriate dietary advice.

@@ -1,0 +1,26 @@
+Sample Type / Medical Specialty: Dermatology
+Sample Name: Moderate Plaque Psoriasis
+
+CHIEF COMPLAINT:
+Worsening scaly skin patches on elbows and knees for six months.
+
+HISTORY OF PRESENT ILLNESS:
+A 34-year-old female presents with a six-month history of well-demarcated, scaly, erythematous plaques over both elbows and knees, with associated itching. She reports a family history of psoriasis and recent worsening coinciding with a stressful period at work. No joint pain or stiffness.
+
+PAST MEDICAL HISTORY:
+No significant past medical history.
+
+MEDICATIONS:
+Emollient cream as needed.
+
+ALLERGIES:
+No known drug allergies.
+
+PHYSICAL EXAMINATION:
+Well-demarcated erythematous plaques with silvery scale over extensor surfaces of both elbows and knees, covering approximately 8% of body surface area. Nails show mild pitting. No synovitis or dactylitis.
+
+ASSESSMENT:
+Moderate plaque psoriasis, body surface area approximately 8%, with early nail involvement.
+
+PLAN:
+Commence topical corticosteroid combined with vitamin D analogue applied once daily to affected areas. Advise regular emollient use. Screen for psoriatic arthritis given nail changes and arrange follow-up in eight weeks to assess response. Discuss lifestyle factors including stress management and refer to dermatology for consideration of phototherapy if inadequate response to topical treatment.
