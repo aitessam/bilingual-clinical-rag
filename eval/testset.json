@@ -1,0 +1,100 @@
+[
+  {
+    "id": "en_01",
+    "language": "en",
+    "source": "note_001.txt",
+    "question": "What was the troponin result for the patient with acute chest pain, and what was the plan regarding repeat troponin testing?",
+    "reference": "Serial troponins were negative at presentation and at six hours; the plan was to repeat troponin at twelve hours."
+  },
+  {
+    "id": "en_02",
+    "language": "en",
+    "source": "note_005.txt",
+    "question": "What treatment and referral were recommended for the patient with left L5-S1 radiculopathy from a lumbar disc herniation?",
+    "reference": "A short course of oral corticosteroids was started and the patient was referred to physiotherapy for core stabilisation exercises; an MRI of the lumbar spine was also arranged to confirm the level and severity."
+  },
+  {
+    "id": "en_03",
+    "language": "en",
+    "source": "note_009.txt",
+    "question": "What medication and dose was prescribed for the patient with gastro-oesophageal reflux disease, and for how long?",
+    "reference": "Omeprazole 20 mg once daily for eight weeks."
+  },
+  {
+    "id": "en_04",
+    "language": "en",
+    "source": "note_013.txt",
+    "question": "What prophylactic medication was started for the patient with migraine with aura, and at what dose?",
+    "reference": "Propranolol 40 mg twice daily was started as migraine prophylaxis."
+  },
+  {
+    "id": "en_05",
+    "language": "en",
+    "source": "note_017.txt",
+    "question": "Which additional medication was added for the patient with suboptimally controlled type 2 diabetes, and why?",
+    "reference": "Dapagliflozin 10 mg once daily, an SGLT2 inhibitor, was added given its additional cardiovascular and renal benefit."
+  },
+  {
+    "id": "en_06",
+    "language": "en",
+    "source": "note_021.txt",
+    "question": "What treatment was given for the acute exacerbation of COPD?",
+    "reference": "Nebulised salbutamol and ipratropium, oral prednisolone 30 mg for five days, a seven-day course of amoxicillin, and supplemental oxygen titrated to a target saturation of 88-92%."
+  },
+  {
+    "id": "en_07",
+    "language": "en",
+    "source": "note_029.txt",
+    "question": "What size was the suspicious pigmented lesion on the patient's back, and what was the plan?",
+    "reference": "The lesion was 9 mm in diameter; an urgent excision biopsy with 2 mm margins was arranged under the two-week-wait skin cancer pathway."
+  },
+  {
+    "id": "ar_01",
+    "language": "ar",
+    "source": "note_001.txt",
+    "question": "ما هي نتيجة فحص التروبونين للمريض الذي راجع بسبب ألم الصدر الحاد، وما هي الخطة بخصوص إعادة الفحص؟",
+    "reference": "كانت نتائج التروبونين المتسلسلة سلبية عند الوصول وبعد ست ساعات، والخطة هي إعادة قياس التروبونين بعد اثنتي عشرة ساعة."
+  },
+  {
+    "id": "ar_02",
+    "language": "ar",
+    "source": "note_005.txt",
+    "question": "ما هو العلاج والإحالة الموصى بهما للمريض المصاب باعتلال جذري في مستوى L5-S1؟",
+    "reference": "بدء دورة قصيرة من الكورتيكوستيرويدات الفموية والتحويل إلى العلاج الطبيعي لتقوية عضلات الجذع، مع ترتيب تصوير بالرنين المغناطيسي للعمود الفقري القطني."
+  },
+  {
+    "id": "ar_03",
+    "language": "ar",
+    "source": "note_009.txt",
+    "question": "ما هو الدواء والجرعة الموصوفة لمريض ارتجاع المريء، ولأي مدة؟",
+    "reference": "أوميبرازول 20 ملغ مرة يومياً لمدة ثمانية أسابيع."
+  },
+  {
+    "id": "ar_04",
+    "language": "ar",
+    "source": "note_013.txt",
+    "question": "ما هو الدواء الوقائي الذي بدئ للمريضة المصابة بالصداع النصفي المصحوب بهالة، وما جرعته؟",
+    "reference": "بروبرانولول 40 ملغ مرتين يومياً كعلاج وقائي للصداع النصفي."
+  },
+  {
+    "id": "ar_05",
+    "language": "ar",
+    "source": "note_017.txt",
+    "question": "ما هو الدواء الإضافي الذي أضيف لمريض السكري من النوع الثاني غير المنضبط، ولماذا؟",
+    "reference": "تمت إضافة داباغليفلوزين 10 ملغ مرة يومياً، وهو مثبط SGLT2، نظراً لفائدته الإضافية على القلب والكلى."
+  },
+  {
+    "id": "ar_06",
+    "language": "ar",
+    "source": "note_021.txt",
+    "question": "ما هو العلاج الذي أعطي لمريض نوبة الانسداد الرئوي المزمن الحادة؟",
+    "reference": "بخاخات مرذذة من السالبوتامول والإيبراتروبيوم، وبريدنيزولون فموي 30 ملغ لمدة خمسة أيام، ودورة أموكسيسيلين لمدة سبعة أيام، مع أكسجين تكميلي بهدف تشبع بين 88 و92%."
+  },
+  {
+    "id": "ar_07",
+    "language": "ar",
+    "source": "note_025.txt",
+    "question": "ما سبب الإصابة الكلوية الحادة لدى المريض، وما هي الخطوة العلاجية الأولى؟",
+    "reference": "سببها ما قبل كلوي بسبب نقص السوائل الناتج عن التهاب المعدة والأمعاء، ويُحتمل تفاقمه باستخدام مثبط الإنزيم المحول للأنجيوتنسين؛ الخطوة الأولى هي إيقاف الراميبريل مؤقتاً وبدء الإماهة الوريدية."
+  }
+]

@@ -17,7 +17,11 @@ dependencies = [
     "faiss-cpu",
     "rank-bm25",
     "sentence-transformers",
-    "ragas",
+    # See eval/README.md "Environment notes" before installing on Windows +
+    # Python 3.14: ragas's own dependency chain currently needs a small
+    # manual workaround there.
+    "ragas==0.4.3",
+    "pandas",
     "streamlit",
     "python-dotenv",
     "langchain-groq",
